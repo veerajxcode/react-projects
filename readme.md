@@ -1,1 +1,1 @@
-Projects related to react
+First Project from React Learning series
