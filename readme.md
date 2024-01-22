@@ -1,1 +1,3 @@
-Here I will be learning how to create a custom react.
+In this Background Changer Project, what I learn is:
+- More understanding on Tailwind CSS
+- Understood the use of Hook
