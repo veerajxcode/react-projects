@@ -1,26 +1,33 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+
 
 function App() {
-
-  let [counter, setCounter] = useState(5)
+  const [count, setCount] = useState(0)
   
-  const addValue = () => {
-    setCounter(counter + 1)
+  const addCount =() => {
+    if(count < 20){
+    setCount(count + 1)
+    }else{
+      alert("Limit Exceeded !!")
+    }
   }
-  const decreaseValue = () => {
-    setCounter(counter - 1)
+  const removeCount = () => {
+    if(count >= 1){
+    setCount(count - 1)
+    }else{
+      alert("Negative value not allowed !!")
+    }
   }
+
   return (
     <>
-      <h1>Chai aur react</h1>
-      <h2>Count value: {counter}</h2>
-
-      <button onClick={addValue}>Add value</button>
-      <br/>
-      <button onClick={decreaseValue}>Remove Value</button>
+      <h1>Counter Practice: {count}</h1>
+      <div className="card">
+        <button onClick={addCount}>
+        Add Count</button>
+        <button onClick={removeCount}>
+        Remove Count</button>
+      </div>
     </>
   )
 }
