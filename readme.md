@@ -1,1 +1,3 @@
-Here I will be learning how to create a custom react.
+In currency converter project. I learnt:
+- How to create custom hooks. 
+- How a third party API can be set and used for getting the required data.
