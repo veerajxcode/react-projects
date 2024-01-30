@@ -1,1 +1,2 @@
-Here I will be learning how to create a custom react.
+In this project I learnt:
+- Context API functionality and flow.
