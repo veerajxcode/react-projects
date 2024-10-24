@@ -2,7 +2,7 @@
 
 Welcome to my **React Projects** repository! 👋
 
-**NOTE:** Learning **React** and understanding its basic concept helped me develop my first WordPress plugin and theme which contain **Gutenberg** blocks and block-patterns. Please go through **[Choose Your Best Selling Products](https://github.com/veerajxcode/chooseyourbestsellingproducts)** plugin and **[NintyNine](https://github.com/veerajxcode/ninty-nine)** theme.
+**NOTE:** Learning **React** and understanding its basic concept helped me develop my first WordPress plugin and theme which contain **Gutenberg** blocks and block-patterns. Please go through **[Choose Your Best Selling Products](https://github.com/veerajxcode/chooseyourbestsellingproducts)** plugin and **[NintyNine](https://github.com/veerajxcode/nintynine)** theme.
 
 Now, this repository contains a series of projects where I learned and applied key concepts of **React** while building practical applications. Each project represents my progress in mastering React, starting from the basics to more advanced topics like **hooks**, **custom hooks**, **Context API**, and integrating third-party libraries like **TailwindCSS**.
 
