@@ -77,4 +77,4 @@ This repository reflects my continuous learning and application of React concept
 
 A big shoutout to the **[Chai aur React series by (Hitesh Choudhery) ](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=h1sL6_USV7p9ceM6)** for providing invaluable tutorials and guidance throughout this journey! 🍵
 
-Feel free to explore the projects and provide any feedback or suggestions. 😊
+Feel free to explore the projects. 😊
